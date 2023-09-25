@@ -50,6 +50,6 @@ def technical(request):
     return render(request, 'home4.html',context)
 
 
-# หน้าแอดมิน
+
 
 
